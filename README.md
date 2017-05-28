@@ -1,4 +1,4 @@
 # hello-world
-Repository
-##about me  
+Repository  
+about me  
 I am trying,I can do it!
